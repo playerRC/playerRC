@@ -1,4 +1,6 @@
-Hello 🌎
+# Hello 🌎
+
+![](https://komarev.com/ghpvc/?username=playerrc)
 
 ![Rachid's GitHub stats](https://github-readme-stats-sepia-one-49.vercel.app/api?username=playerrc&show_icons=true&theme=algolia)
 

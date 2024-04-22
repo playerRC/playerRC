@@ -1,5 +1,7 @@
 # Hello 🌎
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=4cf736&size=30&width=600&lines=>+>+I'm+FASKA+Rachid;>+>+Computer+Science+Student)](https://git.io/typing-svg)
+
 ![](https://komarev.com/ghpvc/?username=playerrc)
 
 ![Rachid's GitHub stats](https://github-readme-stats-sepia-one-49.vercel.app/api?username=playerrc&show_icons=true&theme=algolia)

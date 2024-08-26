@@ -1,4 +1,4 @@
-# Hello 🌎
+# Hello 🌍
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=4cf736&size=30&width=600&lines=>+>+I'm+FASKA+Rachid;>+>+Computer+Science+Student)](https://git.io/typing-svg)
 
